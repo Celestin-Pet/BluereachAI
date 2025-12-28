@@ -25,7 +25,7 @@ Traditional carbon markets suffer from:
 * Applying AI to quantify real biomass change
 * Publishing results on-chain for full transparency
 
-
+```bash
 ##  System Architecture
 
 
@@ -73,6 +73,7 @@ octopus-blue-carbon/
     └── pages/
        └── index.js
 
+```
 
 
 ##  Technology Stack
@@ -119,15 +120,13 @@ cd octopus-blue-carbon
 cd ai-engine
 pip install -r requirements.txt
 
-
-
-```bash
 python train_unet.py
 
+```
 
 ### 3, Smart Contract Setup
-
 ```bash
+
 cd blockchain
 npm install
 npx hardhat compile
@@ -141,19 +140,16 @@ npx hardhat run scripts/deploy.js
 cd backend
 pip install fastapi uvicorn
 uvicorn main:app --reload
-
+```
 
 ### 5, Frontend Dashboard
-
+```bash
 cd frontend
 npm install
 npm run dev
 
 
-Visit:
-
-```
-http://localhost:3000
+Visit: http://localhost:3000
 ```
 
 ##  Core Features
@@ -172,7 +168,7 @@ http://localhost:3000
 * Deterministic AI inference
 * Open and auditable pipeline
 
-## 🌍 Use Cases
+##  Use Cases
 
 * Carbon credit marketplaces
 * ESG reporting platforms
@@ -180,7 +176,7 @@ http://localhost:3000
 * Reforestation & conservation projects
 * Government & NGO climate audits
 
-## 🔮 Future Roadmap
+##  Future Roadmap
 
 * Live satellite streaming
 * DAO-based governance
@@ -188,12 +184,14 @@ http://localhost:3000
 * Multi-chain support
 * AI confidence scoring
 
-## 📜 License
+##  License
 
 MIT License — open for innovation and collaboration.
 
-
+```bash
 ##  Final Note
 
-This project demonstrates how **AI + Earth observation + blockchain** can create trust in climate action.
+This project demonstrates how ( AI + Earth observation + blockchain ) can create trust in climate action.
+                           for collaboration you can reach out to me celestin.np@gmail.com
 
+```
