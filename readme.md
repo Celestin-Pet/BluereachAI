@@ -192,6 +192,7 @@ MIT License — open for innovation and collaboration.
 ##  Final Note
 
 This project demonstrates how ( AI + Earth observation + blockchain ) can create trust in climate action.
-                           for collaboration you can reach out to me celestin.np@gmail.com
+                           for collaboration 
+                           contact: **[celestin.np@gmail.com](mailto:celestin.np.com)**
 
 ```
