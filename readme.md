@@ -110,8 +110,8 @@ octopus-blue-carbon/
 ### 1, Clone Repository
 
 ```bash
-git clone https://github.com/your-org/octopus-blue-carbon.git
-cd octopus-blue-carbon
+git clone https://github.com/Celestin-Pet/BluereachAI.git
+cd BluereachAI
 ```
 
 ### 2, AI Engine Setup
@@ -188,11 +188,10 @@ Visit: http://localhost:3000
 
 MIT License — open for innovation and collaboration.
 
-```bash
+
 ##  Final Note
 
 This project demonstrates how ( AI + Earth observation + blockchain ) can create trust in climate action.
                            for collaboration 
                            contact: **[celestin.np@gmail.com](mailto:celestin.np.com)**
 
-```
